@@ -1,1 +1,2 @@
 # Machine-Learning
+People with low or non-existing credit histories are taken advantage of by untrustworthy lenders. To determine whether an applicant of a loan will be able to repay it. We will be using supervised learning because we have many attributes inputs and outputs a boolean value to determine if they will repay their loan. Our model will learn from this data and predict whether or not the applicants will pay their loan. By using classification.
